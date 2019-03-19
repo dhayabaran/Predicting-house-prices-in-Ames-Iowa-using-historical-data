@@ -6,6 +6,6 @@
 
 3) Also remember, some modifications to the data can be done only for the train set and not the test set.
 
-4) Project_split_id contains the different test ids for splitting the data. 
+4) Project_test_id contains the different test ids for splitting the data. 
 
 5) Try running the code with different splits.
